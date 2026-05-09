@@ -1,6 +1,6 @@
 # TP 0: Presentaciónc en GitHub 
 
-![Mi Foto](tp0.jpg)
+<img src="tp0.jpg" width="250">
 
 
 ## Datos Personales
